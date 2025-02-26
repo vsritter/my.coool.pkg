@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  how_to_use_my_function: how_to_use_my_function.html
+last_built: 2025-02-26T05:33Z
+urls:
+  reference: https://vsritter.github.io/my.coool.pkg/reference
+  article: https://vsritter.github.io/my.coool.pkg/articles
